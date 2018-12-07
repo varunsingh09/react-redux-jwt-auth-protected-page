@@ -1,4 +1,4 @@
-Note: This example is very out-of-date. It might point you in the right direction, but I plan to re-write it from scratch. I won't be accepting any PRs in the meantime. Sorry about that!
+Note: It might point you in the right direction, but I plan to re-write it from scratch. I won't be accepting any PRs in the meantime. Sorry about that!
 
 ### Goal
 
